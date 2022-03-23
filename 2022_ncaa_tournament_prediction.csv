@@ -1,0 +1,128 @@
+,tournament_round,predicted_team
+0,R64,Gonzaga
+1,R64,Georgia State
+2,R64,Boise State
+3,R64,Memphis
+4,R64,UConn
+5,R64,New Mexico State
+6,R64,Arkansas
+7,R64,Vermont
+8,R64,Alabama
+9,R64,Notre Dame
+10,R64,Texas Tech
+11,R64,Montana State
+12,R64,Michigan State
+13,R64,Davidson
+14,R64,Duke
+15,R64,CSU Fullerton
+16,R64,Baylor
+17,R64,Norfolk State
+18,R64,North Carolina
+19,R64,Marquette
+20,R64,Saint Mary's
+21,R64,Indiana
+22,R64,UCLA
+23,R64,Akron
+24,R64,Texas
+25,R64,Virginia Tech
+26,R64,Purdue
+27,R64,Yale
+28,R64,Murray State
+29,R64,San Francisco
+30,R64,Kentucky
+31,R64,Saint Peter's
+32,R64,Arizona
+33,R64,Wright State
+34,R64,Seton Hall
+35,R64,TCU
+36,R64,Houston
+37,R64,UAB
+38,R64,Illinois
+39,R64,Chattanooga
+40,R64,Colorado State
+41,R64,Michigan
+42,R64,Tennessee
+43,R64,Longwood
+44,R64,Ohio State
+45,R64,Loyola Chicago
+46,R64,Villanova
+47,R64,Delaware
+48,R64,Kansas
+49,R64,Texas Southern
+50,R64,San Diego State
+51,R64,Creighton
+52,R64,Iowa
+53,R64,Richmond
+54,R64,Providence
+55,R64,South Dakota State
+56,R64,LSU
+57,R64,Iowa State
+58,R64,Wisconsin
+59,R64,Colgate
+60,R64,USC
+61,R64,Miami
+62,R64,Auburn
+63,R64,J'Ville State
+64,R32,Gonzaga
+65,R32,Memphis
+66,R32,UConn
+67,R32,Arkansas
+68,R32,Alabama
+69,R32,Texas Tech
+70,R32,Michigan State
+71,R32,Duke
+72,R32,Baylor
+73,R32,North Carolina
+74,R32,Saint Mary's
+75,R32,UCLA
+76,R32,Texas
+77,R32,Purdue
+78,R32,San Francisco
+79,R32,Kentucky
+80,R32,Arizona
+81,R32,TCU
+82,R32,Houston
+83,R32,Illinois
+84,R32,Michigan
+85,R32,Tennessee
+86,R32,Ohio State
+87,R32,Villanova
+88,R32,Kansas
+89,R32,San Diego State
+90,R32,Iowa
+91,R32,Providence
+92,R32,LSU
+93,R32,Wisconsin
+94,R32,Miami
+95,R32,Auburn
+96,Sweet 16,Gonzaga
+97,Sweet 16,Arkansas
+98,Sweet 16,Texas Tech
+99,Sweet 16,Duke
+100,Sweet 16,Baylor
+101,Sweet 16,UCLA
+102,Sweet 16,Purdue
+103,Sweet 16,Kentucky
+104,Sweet 16,Arizona
+105,Sweet 16,Houston
+106,Sweet 16,Tennessee
+107,Sweet 16,Villanova
+108,Sweet 16,Kansas
+109,Sweet 16,Iowa
+110,Sweet 16,LSU
+111,Sweet 16,Auburn
+112,Elite 8,Gonzaga
+113,Elite 8,Texas Tech
+114,Elite 8,Baylor
+115,Elite 8,Purdue
+116,Elite 8,Houston
+117,Elite 8,Tennessee
+118,Elite 8,Kansas
+119,Elite 8,Auburn
+120,Final Four,Gonzaga
+121,Final Four,Baylor
+122,Final Four,Houston
+123,Final Four,Kansas
+124,Final,Gonzaga
+125,Final,Houston
+126,Winner,Gonzaga
